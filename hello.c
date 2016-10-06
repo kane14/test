@@ -1,7 +1,9 @@
 #include <stdin.h>
 
 int main(){
-	printf("Hello World!");
-	printf("hello world!");
+	int i;
+	for(i=0: i<=5: i++){
+		printf("Hello World!");
+	}
 	return 0;
 }
